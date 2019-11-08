@@ -1,5 +1,5 @@
 #include <stdio.h>                  //Luccas Nantes
-#include <string.h>                 //Andre Henrique
+#include <string.h>                 //Andre 
 #define MAX 100
 int ordem=0;
 //ordem do usuário
